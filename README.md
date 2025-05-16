@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ¡Hola! Soy Yhonder Aguero 👋<br>Desarrollador Full Stack con experiencia en el diseño, desarrollo e implementación de aplicaciones web escalables integradas con APIs Rest y bases de datos eficientes.<br><br>🌟 Desarrollador Full Stack autodidacta con +1 años de experiencia construyendo aplicaciones web escalables y seguras. Especializado en:<br><br>Arquitectura de APIs eficientes REST.<br>Gestión de bases de datos relacionales y no relacionales.<br>Desarrollo de interfaces dinámicas con React.<br>Diseños responsivos enfocado en crear aplicaciones web intuitivas, rápidas y visualmente impactantes.<br><br><br>Objetivo: Crear soluciones técnicas que combinen rendimiento, usabilidad y escalabilidad.<br><br>🎯 ¿Por qué Trabajar Conmigo?<br>✔ Experiencia en desarrollo Full Stack con enfoque en rendimiento y seguridad.<br>✔ Capacidad para integrar APIs externas.<br>✔ Optimización de bases de datos para consultas rápidas y eficientes.<br>✔ Metodologías ágiles para entregas rápidas y de calidad.
 
 
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yhonder-aguero-a86991331/) 
 
 # 💻 Tech Stack:
